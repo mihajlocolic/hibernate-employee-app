@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Assignment - Hibernate.iml" filepath="$PROJECT_DIR$/Assignment - Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-employee-app.iml" filepath="$PROJECT_DIR$/hibernate-employee-app.iml" />
     </modules>
   </component>
 </project>
